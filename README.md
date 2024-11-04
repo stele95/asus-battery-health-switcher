@@ -33,7 +33,7 @@ Note that there are two versions:
 
 ### Manually
 - Download/clone this repo.
-- Run from a terminal the command `plasmapkg2 -i [widget folder name]`.
+- Run from a terminal the command `kpackagetool6 -i [widget folder name]`.
 
 ## Disclaimer
 I'm not a widget or KDE developer, I did this by looking at other widgets, using AI chatbots, consulting documentation, etc. So use it at your own risk.
